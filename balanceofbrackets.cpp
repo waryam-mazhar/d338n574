@@ -1,5 +1,3 @@
-//changes with conflict
-
 // Given any string expression comprising of opening and closing characters
 // of parentheses - (), curly braces - {} and square brackets - [], we need to 
 // determine if symbols are balanced.
